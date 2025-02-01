@@ -1,31 +1,39 @@
-### ¡Hola a todos! Mi nombre es Melissa👋
+# 💻 About Me
 
-## Soy estudiante desarrollador de Software
+Hi there! I'm a passionate **Backend Developer** and **Google Cloud Enthusiast**. I love working with **Node.js, Express.js, MongoDB, MySQL, Docker, Arduino, C#, Python, Java, SQL Server**, and more!
 
+## 🚀 Tech Stack
 
-### Lenguajes y Herramientas que utilizo:
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-__Generales:__ 
-<br />
-<img align="bottom" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" width="30" height="30" />
-<img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" width="30" height="30" />
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/go/go-original.svg" width="30" height="30" />
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="30" height="30"/>
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/debian/debian-original.svg" width="30" height="30" />
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" width="30" height="30"/>
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="30" height="30"/>
-<br />
+## 📊 GitHub Stats
 
----
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=tu_usuario&theme=radical" />
+</p>
 
+## 📈 Top Languages
 
----
-__Diseño:__
-<br />
-<img align="bottom" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/xd/xd-plain.svg" width="30" height="30" />
-<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" width="30" height="30" />
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/premierepro/premierepro-original.svg" width="30" height="30" />
-<br />
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu_usuario&layout=compact&theme=radical" />
+</p>
 
+## 🏆 GitHub Trophies
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tu_usuario&theme=radical&no-frame=true&column=6" />
+</p>
 
+## 🌎 Contact
+
+- 💼 LinkedIn: [linkedin.com/in/tu_usuario](https://www.linkedin.com/in/tu_usuario/)
+- 📧 Email: tu_correo@example.com
