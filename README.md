@@ -18,7 +18,7 @@ Hi there! I'm a passionate **Backend Developer** and **Google Cloud Enthusiast**
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=melissaraujo00&show_icons=true&theme=radical" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=tu_usuario&theme=radical" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=melissaraujo00&theme=radical" />
 </p>
 
 ## 📈 Top Languages
