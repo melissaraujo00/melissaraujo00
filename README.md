@@ -36,5 +36,5 @@ Hi there! I'm a passionate **Backend Developer** and **Google Cloud Enthusiast**
 
 ## 🌎 Contact
 
-- 💼 LinkedIn: [linkedin.com/in/melissaraujo00](https://www.linkedin.com/in/melissa-araujo-317365235/)
+- 💼 LinkedIn: [linkedin.com/in/melissaraujo00](https://www.linkedin.com/in/melissa-araujo00/)
 - 📧 Email: melissa.araujoo@outlook.com
