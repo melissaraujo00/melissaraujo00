@@ -15,12 +15,6 @@ Hi there! I'm a passionate **Backend Developer** and **Google Cloud Enthusiast**
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-87CEEB?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-708090?style=for-the-badge&logo=javascript&logoColor=white)
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=melissaraujo00&show_icons=true&theme=blue-gray" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=melissaraujo00&theme=blue-gray" />
-</p>
 
 ## 📈 Top Languages
 
@@ -38,3 +32,4 @@ Hi there! I'm a passionate **Backend Developer** and **Google Cloud Enthusiast**
 
 - 💼 LinkedIn: [linkedin.com/in/melissaraujo00](https://www.linkedin.com/in/melissa-araujo00/)
 - 📧 Email: melissa.araujoo@outlook.com
+
